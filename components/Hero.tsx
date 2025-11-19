@@ -26,7 +26,7 @@ export default function Hero() {
         poster="/images/hero-poster.svg"
         aria-label="Runway Retreat walkthrough video"
       >
-        <source src="/videos/hero.mp4" type="video/mp4" />
+        <source src="/assets/videos/Video-1.mp4" type="video/mp4" />
       </video>
       <div className="absolute inset-0 bg-black/40" />
       <div className="relative container h-full flex items-center">

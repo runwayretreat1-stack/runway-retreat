@@ -54,6 +54,5 @@ A lightweight, production‑ready homestay website optimized for Core Web Vitals
 - Set canonical origin in `lib/seo.ts` and `metadataBase` in layout
 
 ## Notes
-- Replace placeholder images in `public/images/*` and add video files under `public/videos/*`.
+- Replace placeholder images in `public/images/*` and add video files under `public/assets/videos/*`.
 - Update phone/WhatsApp numbers and email.
-
